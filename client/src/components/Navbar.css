@@ -1,0 +1,10 @@
+.input{
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+.icon{
+    background-color: aliceblue;
+}
+.icon:hover{
+    background-color: aqua;
+}
